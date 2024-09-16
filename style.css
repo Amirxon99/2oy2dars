@@ -1,0 +1,21 @@
+body{
+    background-color: #2A5D5A;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    background-color: rgb(61, 26, 10);
+    margin: 20px 450px;
+}
+.qora{
+    background-color: black;
+    border: 5px solid red;
+    margin: 50px 220px;
+    padding: 50px;
+}
+h3{
+    background-color: aquamarine;
+    padding: 55px;
+}
